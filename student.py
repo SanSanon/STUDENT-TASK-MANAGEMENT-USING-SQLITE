@@ -1,4 +1,4 @@
-# Student class with attributes (student_id, name, age, grade)
+
 
 class Student:
     def __init__(self, student_id, name, age, grade):
